@@ -1,4 +1,4 @@
-# bugs_crawler
+# Bugs Crawler 
 ## Background 
 - Bugs is #5 streaming app in Korea.
 - As I was moving to the US, I wanted to move my exisiting playlists in Bugs to Spotify 
@@ -10,3 +10,5 @@
 - Currently WIP(Work in Progress) 
   - I'll be working on making it more stable and suitable for everyone 
   - I'll be adding a more detailed README.md to inform how credentials for this project could be acquired. 
+- Utilizes Selenium 
+  - APIs or reqeusts are more stable, but Bugs does not provide any APIs and is an interactive web site. 
