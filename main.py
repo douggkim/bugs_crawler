@@ -97,7 +97,7 @@ for song in playlist:
 print(f"Number of Songs found on Spotify: {len(song_id_list)}")
 
 # TODO 6 : add_songs_to_the_playlist
-for song in song_id_list:¡¡
+for song in song_id_list:
     print(spotifymanager.add_items_to_playlist(track_id=[song], playlist_id=playlist_id))
 
 
